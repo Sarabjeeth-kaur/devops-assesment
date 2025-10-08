@@ -3,6 +3,8 @@ export default function Home() {
     <div style={{ fontFamily: 'sans-serif', textAlign: 'center', marginTop: '20%' }}>
       <h1> DevOps Assessment - Next.js App</h1>
       <p>Containerized and deployed using Docker, GitHub Actions, and Kubernetes (Minikube)</p>
+      <p>Sardarni Sarabjeeth Kaur</p>
+      <p>ദ്ദി（• ˕ •マ.ᐟ</p>
     </div>
   );
 }
